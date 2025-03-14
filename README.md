@@ -1,2 +1,4 @@
 samurai
 samuraiwtf
+インデックスの変更取消しを確認
+reset
